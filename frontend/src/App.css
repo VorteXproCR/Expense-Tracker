@@ -32,7 +32,7 @@
   --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
 }
 
-/* Reset & Base */
+
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -587,7 +587,7 @@ body {
   background: var(--text-muted);
 }
 
-/* Selection */
+
 ::selection {
   background: rgba(34, 197, 94, 0.3);
   color: var(--text-primary);
